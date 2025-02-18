@@ -1,6 +1,6 @@
 package hilosadivinadores;
 
-public class main {
+public class HilosAdivinadores {
 
     private static final int NUM_HILOS = 10;
 
